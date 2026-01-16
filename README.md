@@ -99,8 +99,8 @@
         </excludes>
         
         <!-- 自定义混淆值的前缀和后缀 -->
-        <prefix>ENC(</prefix>
-        <suffix>)</suffix>
+        <prefix>-</prefix>
+        <suffix>-</suffix>
     </configuration>
 </plugin>
 ```
